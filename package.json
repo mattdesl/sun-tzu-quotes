@@ -1,0 +1,46 @@
+{
+  "name": "sun-tzu-quotes",
+  "version": "1.0.0",
+  "description": "a few Sun Tzu quotes from The Art of War",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "./cli.js",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "minimist": "^1.1.2",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "sun",
+    "tzu",
+    "art",
+    "of",
+    "war",
+    "poetry",
+    "poetic",
+    "quote",
+    "quotes",
+    "proverb",
+    "proverbs",
+    "sayings",
+    "phrases",
+    "dummy",
+    "text"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/sun-tzu-quotes.git"
+  },
+  "homepage": "https://github.com/mattdesl/sun-tzu-quotes",
+  "bugs": {
+    "url": "https://github.com/mattdesl/sun-tzu-quotes/issues"
+  }
+}

@@ -1,0 +1,6 @@
+Usage:
+  sun-tzu-quotes [opt]
+  
+Options:
+  --help  show help
+  --all   list all quotes 
